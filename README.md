@@ -150,6 +150,8 @@ Chrome/Edge/firefox disattivare accelerazione hardware. ATTENZIONE! questa modif
 
 Solo Chrome/Edge disattivare avvio rapido e caricaemnte pagine in background, quando chiudiamo il browser deve essere chiuso no che faccia roba sotto
 
+![image](https://github.com/user-attachments/assets/6b8c2aaa-993f-4203-8a05-c22f44ad3286)
+
 3 - Altri programmi
 
 Qualunque programma è in uso mentre giocate consuma memoria e memoria video, se potete chiudete app e programmi che non vi servono o settatili senza accelerazione hardware
@@ -157,6 +159,8 @@ Qualunque programma è in uso mentre giocate consuma memoria e memoria video, se
 ### Battle.net Settings
 
 Potete avere battle.net installato nelle cartelle di default, controllate che anche lui non abbia accellerazione hardware e che non venga avviato in automatico all'avvio del pc
+
+![bnet](https://github.com/user-attachments/assets/f9be95de-6fde-49b6-adf8-ece6c9f08d89)
 
 Per l'installazione di wow invece il consiglio è di installarlo in un percorso semplice fuori dalla cartella di default
 
