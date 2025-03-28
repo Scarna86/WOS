@@ -1,4 +1,4 @@
-# WOS ---Work In Proress---
+# WOS ---Work In Proress: prima bozza---
 World Of Warcraft Optimization Settings
 ## Indice
 - [Intro](#intro)
@@ -75,4 +75,73 @@ Controllate in impostazioni schermo di avere le seguenti impostazioni:
   - La Risoluzione impostata correttamente del vostro schermo, esempio 1920x1080 se HD, 2440x1440 se 2K, ecc
   - La frequenza di aggiornamento (hz) impostata al massimo del vostro schermo, lo trovate nella sezione "Impostazioni Schermo Avanzate", se avete monitor che vanno a 120 144 165 240 ecc settate di conseguenza
   - Di NON usare la funzione HDR. WoW non supporta HDR e anche forzando l'HDR automatico di windows si potrebbero riscontrare oltre che colori e luminosità non adeguata, crash e freeze del gioco.
+
+### Driver Settings
+Saltabile: NO 
+
+Difficoltà: Media 
+
+Pericolo: Medio
+
+Di base il consiglio per i driver è il seguente:
+
+- Se giocate solo a wow, aggiornateli solo quando escono delle patch major (inizio season, prepatch, ecc) non è necessario aggiornare i driver ad ogni release
+- Se giocate ad altro, aggiornate i driver quando il gioco che vi interessa riceve aggiornamenti driver, altrimenti skippate tranquillamente
+
+Detto questo, sia per NVIDIA che per AMD usate installazioni semplici, per Nvidia solo driver e Nvidia App, per Amd solo driver e adrenaline software.
+
+In entrambe le App, non modificare nulla di aggiuntivo, se non disattivare l'overlay e combinazioni tasti.
+
+Per i driver di altre periferiche usate solo versioni di base windows quando possibile, unici esclusi sono driver e software per mouse e tastiere che usano macro o comandi aggiuntivi
+
+GHUB, corsair, razer ecc usate le versioni con meno optional possibili e anche qua disattivate overlay o preload in windows delle parti no necessarie.
+
+### Programm Settings
+
+Saltabile: NO 
+
+Difficoltà: Bassa 
+
+Pericolo: Nessuno
+
+1 - Discord
+
+Disattivare Overlay dal menu impostazioni "rotella in basso" sezione "overlay"
+Disattivare Accellerazione Hardware dalla sezione "avanzate"
+Scegliete voi se tenere Discord in esecuzione automatica
+
+2 - Browser
+
+Chrome/Edge/firefox disattivare accelerazione hardware. ATTENZIONE! questa modifica serve per allegerire il browser ma impedisce a netflix youtube e altri servizi di video streaming di poter usare la risoluzione 4k e l'hdr, se vi serve mantenere queste opzioni non usate questa modifica
+
+Solo Chrome/Edge disattivare avvio rapido e caricaemnte pagine in background, quando chiudiamo il browser deve essere chiuso no che faccia roba sotto
+
+3 - Altri programmi
+
+Qualunque programma è in uso mentre giocate consuma memoria e memoria video, se potete chiudete app e programmi che non vi servono o settatili senza accelerazione hardware
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
