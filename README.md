@@ -281,6 +281,10 @@ Per le WA Wago APP
 
 https://addons.wago.io/app
 
+### Addons Settings
+
+```/console cvar_default```
+
 
 
 
