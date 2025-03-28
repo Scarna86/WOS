@@ -170,6 +170,38 @@ ATTENZIONE!
 
 Battle.net e WoW supportano solo file system NTFS, se usate hard disk esterni e volete che wow sia installato su di essi, assicuratevi che il file system sia NTFS o il gioco non si aggiorna o da problemi di aggiornamenti infiniti
 
+## WoW-Settings
+
+Le impostazioni di wow spiegate e consigliate punto per punto sia per open world sia per raid
+
+Monitor: Scegliete il monitor su cui giocare
+
+Visualizzazione: Lasciate schermo intero (in finestra)
+
+Risoluzione: Mettete quella massima pari al vostro monitor
+
+Scala Rendering: Lasciate 100%
+
+ATTENZIONE! attualmente è buggata quindi qualsiasi valore diverso da 100% provoca cali enormi di fps, un altra feature intelligente rotta da piu di 1 espansione...
+
+Attiva dimensione intefaccia: è lo scaling ui, se usate elvui o altri addons non toccatelo se usate l'interfaccia blizzard scegliete a vostro piacimento
+
+Sincronia Verticale (Vsync): Di Base Disattivato, utilizzatelo solo ed esclusivamente se avete problemi di tearing, ossia vi sembra che l'immagine si spacchi orizzontalmente, quando è attivo aumenta leggermente la latenza e blocca gli fps alla risoluzione dello schermo e ai suoi sottomultipli (migliorabili con triplo buffering vedi sotto)
+
+Modalita a Bassa Latenza: se avete una gpu AMD lasciatelo disattivato, non porta benefici. Se avete una gpu Nvidia usate l'opzione nvidia reflex (NON reflex+boost che provoca tearing e fps minori) 
+
+Anti-Aliasing: se avete schermi superiori al 2k usate solo tecniche basate su immagini con cmaa2, se usate obs usate il cmaa base. Se avete monitor fullHD usate una combinazione di cmaa2 e msaa 2x.
+Se dovete raidare al massimo disattivatelo
+
+Multisample alpha test: usatelo SOLO se usate tecnice multisample 
+
+Campo Visivo Visuale: Lasciare al Massimo
+
+![g1](https://github.com/user-attachments/assets/49bf2d7f-fe40-4db5-8060-ca37b8b3d72a)
+
+
+
+![g2](https://github.com/user-attachments/assets/4877cb92-ed80-407f-aa00-8c3516265127)
 
 
 
