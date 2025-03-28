@@ -5,6 +5,7 @@ World Of Warcraft Optimization Settings
 - [Pc Settings](#pc-settings)
   - [Bios Settings](#bios-settings)
   - [Windows Settings](#windows-settings)
+  - [Driver Settings](#driver-settings)
   - [Programm Settings](#programm-settings)
   - [Battle.net Settings](#bnet-settings)
 - [Wow Settings](#wow-settings)
@@ -23,7 +24,7 @@ Grazie e buon game!
 
 ## PC Settings
 ### Bios Settings
-Saltabile: Si 
+Saltabile: SI 
 
 Difficoltà: Alta 
 
@@ -41,3 +42,14 @@ Una volta nel bios le opzioni modificabili per migliorare WOW sono:
 2 - Abilitare SAM / ReBAR / Resaizable Bar per le schede video, in alcuni modelli lo trovate in piccolo in alto o in basso nella schermata principale del bios, in altri lo trovate sotto la sezione PCIE, in coppia si abilita sia ReBAR sia ABOVE 4G DECODING, questa modifica serve a migliorare la gestione della vram della scheda video ed ha beneficio anche per molti altri giochi moderni.
 
   ATTENZIONE! Non dovrebbero esserci effetti collaterali con questa modifica su sistemi moderni, su sistemi un po piu vecchiotti potrebbe non visualizarsi piu a video nulla, in questo caso dopo 3 o 5 riavvii il sistema dovrebbe disabilitare la funzione e riavviarsi normalmente, in caso negativo dovrete effetturare un BIOS RESET o CLEAR-MOS
+
+### Windows Settings
+Saltabile: NO
+
+Difficoltà: Medio-Bassa
+
+Pericolo: Nessuno
+
+Le modifiche alle impostazioni di windows consigliate che possono essere utili non solo per WoW ma per tutti sono le seguenti:
+Digitare in trova "scegli combinazione risparmio energia" si arriverà a questa schermata
+![image](https://github.com/user-attachments/assets/b4352220-7e1a-40ad-bcbc-acd0144c9e9c)
