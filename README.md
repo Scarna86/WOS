@@ -222,12 +222,17 @@ Densità magica: sempre Essenziali/Essenzial filtra le spell facendo vedere solo
 
 Proiezione Texture: IMPORTANTE sempre ON o non vedrete le spell dei boss
 
+Distanza Visuale: in raid 1, altrimenti 7
 
+Dettaglio Ambientale: in raid 1, altrimenti 7
 
+Effetti del suolo: in raid 1, altrimenti 7
 
 ![g2](https://github.com/user-attachments/assets/4877cb92-ed80-407f-aa00-8c3516265127)
 
 
+
+![g3](https://github.com/user-attachments/assets/aefabb67-5ede-482d-8b01-8b3476798452)
 
 
 
