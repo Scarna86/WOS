@@ -69,9 +69,13 @@ https://support.lenovo.com/it/it/solutions/ht513773-how-to-enable-or-disable-fas
 
 Queta funzione risulta attiva anche se non configurata, basta cercare "Proxy" dalla ricerca windows e disattivare la funzione. Ora le pagine web dovrebbero caricarsi piu velocemente quando avviate il browser ed eviterete anche reindirizzamente non rischiesti causati magari da programmi indesiderati o malware
 
+![image](https://github.com/user-attachments/assets/1d0100cc-fd08-4090-abd8-944d2bc50188)
+
 3 - App di Avvio
 
 Cercate "app di Avvio" e controllate che non ci siano programmi che partano in automatico all'avvio, esclusi driver e antivirus il resto delle app non dovrebbero partire in automatico.
+
+![image](https://github.com/user-attachments/assets/3b45470a-1da3-471f-99fe-a0e0506ada91)
 
 4 - Impostazioni Schermo
 
@@ -80,6 +84,8 @@ Controllate in impostazioni schermo di avere le seguenti impostazioni:
   - La Risoluzione impostata correttamente del vostro schermo, esempio 1920x1080 se HD, 2440x1440 se 2K, ecc
   - La frequenza di aggiornamento (hz) impostata al massimo del vostro schermo, lo trovate nella sezione "Impostazioni Schermo Avanzate", se avete monitor che vanno a 120 144 165 240 ecc settate di conseguenza
   - Di NON usare la funzione HDR. WoW non supporta HDR e anche forzando l'HDR automatico di windows si potrebbero riscontrare oltre che colori e luminosità non adeguata, crash e freeze del gioco.
+
+![image](https://github.com/user-attachments/assets/f2bc1515-e350-435f-a52c-76f3295be5c3)
 
 5 - Impostazioni Grafica Avanzate
 
@@ -91,7 +97,7 @@ Ottimizzazione giochi modalità finestra ON
 
 Pianificazione GPU con Accellerazione Hardware OFF (detto HAGS, se cercate online praticamente nessun gioco ne trae benefici)
 
-Frequenza aggiornamento variabile OFF (WoW non supporta di base freesync o gsync, forzarlo potrebbe provocare stuttering o tearing, se vi funziona potete tenerlo attivo, altrimenti disattivate
+Frequenza aggiornamento variabile OFF (WoW non supporta di base freesync o gsync, forzarlo potrebbe provocare crash, stuttering o tearing, se vi funziona potete tenerlo attivo, altrimenti disattivatelo)
 
 ![image](https://github.com/user-attachments/assets/ef3ae958-c104-41ca-801a-d5f68efd679a)
 
