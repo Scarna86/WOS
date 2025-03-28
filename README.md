@@ -230,7 +230,31 @@ Effetti del suolo: in raid 1, altrimenti 7
 
 ![g2](https://github.com/user-attachments/assets/4877cb92-ed80-407f-aa00-8c3516265127)
 
+Buffering Triplo: Usarlo solo se si usa la Sincronia Verticale Sopra, altrimenti disattivare
 
+Filtro Texture: Usare 16X, su pc vecchiotti 8X
+
+Ray Tracing delle ombre: LOL togliete sta inutilità
+
+Ricampionamento: lasciare fidelityFX (anche su Nvidia)
+
+Modalità VRS: Disattivato
+
+API grafiche: Usate DX12, se avete schede video super vecchie e avete problemi provate le DX11
+
+Interazioni fisiche: Scegliete voi
+
+Scheda Video: se usate un notebook o un processore con gpu integrata controllate di avere la scheda discreta dedicata giusta
+
+FPS massimi primo piano: Settatelo alla pari del monitor, se usate Vsync potete disattivarlo
+
+FPS massimi background: Usate un normale 30 ATTENZIONE! per alcuni utenti che hanno freeze quando eseguono ALT+TAB disattivate questa opzione o provate i fix nella sezione fix in fondo
+
+Soglia FPS: Disattivato
+
+Ricampionamento Nitidezza: ATTENZIONE! per poterne sfruttare i vantaggi dato che è buggata l'attivazione, usate questo comando
+
+``` /console set ResampleAlwaysSharpen 1 ```
 
 ![g3](https://github.com/user-attachments/assets/aefabb67-5ede-482d-8b01-8b3476798452)
 
