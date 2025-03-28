@@ -68,3 +68,11 @@ Queta funzione risulta attiva anche se non configurata, basta cercare "Proxy" da
 
 Cercate "app di Avvio" e controllate che non ci siano programmi che partano in automatico all'avvio, esclusi driver e antivirus il resto delle app non dovrebbero partire in automatico.
 
+4 - Impostazioni Schermo
+
+Controllate in impostazioni schermo di avere le seguenti impostazioni:
+
+  - La Risoluzione impostata correttamente del vostro schermo, esempio 1920x1080 se HD, 2440x1440 se 2K, ecc
+  - La frequenza di aggiornamento (hz) impostata al massimo del vostro schermo, lo trovate nella sezione "Impostazioni Schermo Avanzate", se avete monitor che vanno a 120 144 165 240 ecc settate di conseguenza
+  - Di NON usare la funzione HDR. WoW non supporta HDR e anche forzando l'HDR automatico di windows si potrebbero riscontrare oltre che colori e luminosità non adeguata, crash e freeze del gioco.
+
