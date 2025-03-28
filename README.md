@@ -1,4 +1,4 @@
-# WOS
+# WOS ---Work In Proress---
 World Of Warcraft Optimization Settings
 ## Indice
 - [Intro](#intro)
