@@ -171,6 +171,8 @@ Battle.net e WoW supportano solo file system NTFS, se usate hard disk esterni e 
 
 ## WoW-Settings
 
+Breve premessa: WoW ha un engine vecchio tirato per i capelli, di base alcune situazioni lo mandano in crisi anche senza addons e anche su super computer. Alcune sue opzioni sono buggate da anni, altre sono nascoste e richiedono comandi esterni.
+
 Le impostazioni di wow spiegate e consigliate punto per punto sia per open world sia per raid
 
 Monitor: Scegliete il monitor su cui giocare
@@ -282,6 +284,8 @@ Per le WA Wago APP
 https://addons.wago.io/app
 
 ### Addons Settings
+
+Breve premessa: se avete addons e impostazioni vecchie da anni e avete
 
 ```/console cvar_default```
 
