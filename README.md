@@ -13,7 +13,6 @@ World Of Warcraft Optimization Settings
   - [Addons WA Manager](#Addons-WA-Manager)
   - [Addons Settings](#Addons-Settings)
 - [Fix & Workaround](#fix-workaround)
-- [Change-log](#change-log)
 
 ## Intro
 Salve sono Scarna86, su WoW sono Itanku, Monk Brewmaster. Ho voluto finalmente raccogliere tutte le informazione e le esperienze che conosco per migliorare ed ottimizzare World of Warcraft al meglio, in particolare per l'ambiente raid, m+ e competitivo in generale.
@@ -327,9 +326,25 @@ Difficoltà: Variabile
 
 Pericolo: Variabile
 
+1 - Refresh Rate addons, per tutte le addons è consigliabile scegliere un refresh rate di aggiornamento non troppo aggressivo, details, elvui, plater ecc ognugno ha la sua configurazione di refresh, 
 
+![elvui ](https://github.com/user-attachments/assets/3f1eb5f2-61b3-42e5-9039-6100ddd585da)
 
+![details](https://github.com/user-attachments/assets/d6d6b1de-9927-4c17-8ebd-77eceeedbc2a)
 
+2 - WeakAura Profiler, permette di controllare quali delle nostre WA stanno sovraccaricando il gioco, per avviare il profiling basta fare tasto destro sull'icona WA e poi avviare con start profiling
+
+![image](https://github.com/user-attachments/assets/dd9d7de1-8bea-4f62-903a-8fad53008c78)
+
+![image](https://github.com/user-attachments/assets/ba14a0b4-bf90-420b-945f-02207e37bc62)
+
+X capire quale WA sta dando problemi mettetele in ordine di SPIKE cliccando sulla collonna SPIKE se vi sono valori rossi significa che quella WA sta caricando il gioco
+
+Se possibile quindi aggiornatela, sostituitela o non usatela.
+
+3 - WeakAura Models, dovete controllare ogni singola WA che avete ed assicurarvi che nessuna usi MODELS nella sezione display. I models causano ingenti perdite di FPS
+
+![image](https://github.com/user-attachments/assets/fb1e92ad-d7b7-4783-a3fa-6c5fcc520f74)
 
 
 
