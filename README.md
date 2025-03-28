@@ -1,4 +1,4 @@
-# WOS 1.0
+# WOS 0.9 WIP
 World Of Warcraft Optimization Settings
 ## Indice
 - [Intro](#intro)
@@ -12,6 +12,7 @@ World Of Warcraft Optimization Settings
 - [Addons](#addons)
   - [Addons WA Manager](#Addons-WA-Manager)
   - [Addons Settings](#Addons-Settings)
+- [Monitoring Prestazioni](#Monitoring-Prestazioni)
 - [Fix e Workaround](#fix-e-workaround)
 
 ## Intro
@@ -353,6 +354,8 @@ Se possibile quindi aggiornatela, sostituitela o non usatela.
 3 - WeakAura Models, dovete controllare ogni singola WA che avete ed assicurarvi che nessuna usi MODELS nella sezione display. I models causano ingenti perdite di FPS
 
 ![image](https://github.com/user-attachments/assets/fb1e92ad-d7b7-4783-a3fa-6c5fcc520f74)
+
+## Monitoring Prestazioni
 
 ## Fix e Workaround
 
