@@ -156,6 +156,11 @@ Solo Chrome/Edge disattivare avvio rapido e caricaemnte pagine in background, qu
 Qualunque programma è in uso mentre giocate consuma memoria e memoria video, se potete chiudete app e programmi che non vi servono o settatili senza accelerazione hardware
 
 ### Battlenet Settings
+Saltabile: NO
+
+Difficoltà: Bassa 
+
+Pericolo: Nessuno
 
 Potete avere battle.net installato nelle cartelle di default, controllate che anche lui non abbia accellerazione hardware e che non venga avviato in automatico all'avvio del pc
 
@@ -170,6 +175,11 @@ ATTENZIONE!
 Battle.net e WoW supportano solo file system NTFS, se usate hard disk esterni e volete che wow sia installato su di essi, assicuratevi che il file system sia NTFS o il gioco non si aggiorna o da problemi di aggiornamenti infiniti
 
 ## WoW-Settings
+Saltabile: NO
+
+Difficoltà: Bassa 
+
+Pericolo: Nessuno
 
 Breve premessa: WoW ha un engine vecchio tirato per i capelli, di base alcune situazioni lo mandano in crisi anche senza addons e anche su super computer. Alcune sue opzioni sono buggate da anni, altre sono nascoste e richiedono comandi esterni.
 
@@ -271,6 +281,11 @@ Nella sezione rete se non siete voi a prendere i log disattivate cronologia di c
 ![r1](https://github.com/user-attachments/assets/e7515cda-64e5-4aa2-9243-af8218453884)
 
 ## Addons
+Saltabile: SI
+
+Difficoltà: Bassa 
+
+Pericolo: Alto
 
 Breve premessa: WoW ha una struttura per gestire le addons molto semplice, le addons vengono salvate nella cartella interface mentre le impostazioni delle addons nella cartella WTF. 
 
@@ -289,6 +304,12 @@ Dopo il reset completo, uscire e rientrare dal gioco.
 Il reset completo andrebbe fatto ad ogni espansione, dato che non si puo sapere quali CVAR sono state toccate aggiunte o eliminite di default
 
 ### Addons WA Manager
+Saltabile: NO
+
+Difficoltà: Bassa 
+
+Pericolo: Nessuno
+
 Ci sono vari addons manager e WA updater, quelli che consiglio sono:
 
 Per le addons, scaricate la versione wowup with curseforge
@@ -300,6 +321,11 @@ Per le WA Wago APP
 https://addons.wago.io/app
 
 ### Addons Settings
+Saltabile: NO
+
+Difficoltà: Variabile 
+
+Pericolo: Variabile
 
 
 
