@@ -37,6 +37,11 @@ Una volta nel bios le opzioni modificabili per migliorare WOW sono:
 
 1 - Abilitare il profilo XMP (x intel) o DOCP (x AMD), nelle schermate principali dei bios l'opzione è quasi sempre in prima vista, abilitarla e premete il tasto "F10" (salva ed esci) e confermare con "INVIO". Questa modifica abilità l'auto overclock delle ram portandole alle specifiche alle quali vengono vendute 
 
+![xmp](https://github.com/user-attachments/assets/e6d953ac-938c-457d-8b0f-9189cecff378)
+
+![Docp](https://github.com/user-attachments/assets/35b31e42-ac94-410d-b4f3-1509d09eb0b0)
+
+
   ATTENZIONE! se notate crash, riavvii freeze o schermate BSOD dell'intero PC significa che il vostro pc non supporta appieno il profilo overclock delle ram, in questo case avete 2 opzioni, provare ad aggiornare il bios, per sperare in compatibilità migliorata all'overclock ram, oppure non utilizzare questa funzione. Se il pc inizia un ciclio di riavvii non spaventatevi dopo 3 o 5 riavvii non a buon fine il pc disattiva in automatico il profilo XMP o DOCP, controllate quindi che sia disattivato e salvate, in caso negativo dovrete effetturare un BIOS RESET o CLEAR-MOS
 
 2 - Abilitare SAM / ReBAR / Resaizable Bar per le schede video, in alcuni modelli lo trovate in piccolo in alto o in basso nella schermata principale del bios, in altri lo trovate sotto la sezione PCIE, in coppia si abilita sia ReBAR sia ABOVE 4G DECODING, questa modifica serve a migliorare la gestione della vram della scheda video ed ha beneficio anche per molti altri giochi moderni.
@@ -119,6 +124,18 @@ Solo Chrome/Edge disattivare avvio rapido e caricaemnte pagine in background, qu
 3 - Altri programmi
 
 Qualunque programma è in uso mentre giocate consuma memoria e memoria video, se potete chiudete app e programmi che non vi servono o settatili senza accelerazione hardware
+
+### Battle.net Settings
+
+Potete avere battle.net installato nelle cartelle di default, controllate che anche lui non abbia accellerazione hardware e che non venga avviato in automatico all'avvio del pc
+
+Per l'installazione di wow invece il consiglio è di installarlo in un percorso semplice fuori dalla cartella di default
+
+Esempio: "C:\Giochi\World of Warcraft" oppure "D:\World of Warcraft"
+
+ATTENZIONE!
+
+Battle.net e WoW supportano solo file system NTFS, se usate hard disk esterni e volete che wow sia installato su di essi, assicuratevi che il file system sia NTFS o il gioco non si aggiorna o da problemi di aggiornamenti infiniti
 
 
 
