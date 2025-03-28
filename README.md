@@ -115,7 +115,11 @@ Di base il consiglio per i driver è il seguente:
 
 Detto questo, sia per NVIDIA che per AMD usate installazioni semplici, per Nvidia solo driver e Nvidia App, per Amd solo driver e adrenaline software.
 
-In entrambe le App, non modificare nulla di aggiuntivo, se non disattivare l'overlay e combinazioni tasti.
+In entrambe le App, non modificare nulla di aggiuntivo, se non disattivare l'overlay, photo mode e combinazioni tasti.
+
+![nvidia](https://github.com/user-attachments/assets/2901dac8-50dc-410f-8e78-b73757aa68c9)
+
+![amd](https://github.com/user-attachments/assets/d874dcb4-da36-4435-975a-004d5d1383ea)
 
 Per i driver di altre periferiche usate solo versioni di base windows quando possibile, unici esclusi sono driver e software per mouse e tastiere che usano macro o comandi aggiuntivi
 
