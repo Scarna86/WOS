@@ -81,6 +81,20 @@ Controllate in impostazioni schermo di avere le seguenti impostazioni:
   - La frequenza di aggiornamento (hz) impostata al massimo del vostro schermo, lo trovate nella sezione "Impostazioni Schermo Avanzate", se avete monitor che vanno a 120 144 165 240 ecc settate di conseguenza
   - Di NON usare la funzione HDR. WoW non supporta HDR e anche forzando l'HDR automatico di windows si potrebbero riscontrare oltre che colori e luminosità non adeguata, crash e freeze del gioco.
 
+5 - Impostazioni Grafica Avanzate
+
+Usate le seguenti impostazioni in impostazioni grafica avanzata
+
+AutoHDR off (wow non lo supporta e potrebbe creare problemi)
+
+Ottimizzazione giochi modalità finestra ON 
+
+Pianificazione GPU con Accellerazione Hardware OFF (detto HAGS, se cercate online praticamente nessun gioco ne trae benefici)
+
+Frequenza aggiornamento variabile OFF (WoW non supporta di base freesync o gsync, forzarlo potrebbe provocare stuttering o tearing, se vi funziona potete tenerlo attivo, altrimenti disattivate
+
+![image](https://github.com/user-attachments/assets/ef3ae958-c104-41ca-801a-d5f68efd679a)
+
 ### Driver Settings
 Saltabile: NO 
 
