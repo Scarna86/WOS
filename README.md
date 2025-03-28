@@ -10,8 +10,8 @@ World Of Warcraft Optimization Settings
   - [Battlenet Settings](#battlenet-settings)
 - [Wow Settings](#wow-settings)
 - [Addons](#addons)
-  - [Addons & WA Updater](#Addons-&-WA-Updater)
-  - [Addons & WA Settings](#Addons-&-WA-Settings)
+  - [Addons WA Manager](#Addons-WA-Manager)
+  - [Addons Settings](#Addons-Settings)
 - [Fix & Workaround](#fix-workaround)
 - [Change-log](#change-log)
 
@@ -270,8 +270,16 @@ Nella sezione rete se non siete voi a prendere i log disattivate cronologia di c
 
 ## Addons
 
-### Addons & WA Updater
+### Addons WA Manager
+Ci sono vari addons manager e WA updater, quelli che consiglio sono:
 
+Per le addons, scaricate la versione wowup with curseforge
+
+https://wowup.io/
+
+Per le WA Wago APP
+
+https://addons.wago.io/app
 
 
 
