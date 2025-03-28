@@ -51,5 +51,19 @@ Difficoltà: Medio-Bassa
 Pericolo: Nessuno
 
 Le modifiche alle impostazioni di windows consigliate che possono essere utili non solo per WoW ma per tutti sono le seguenti:
-Digitare in trova "scegli combinazione risparmio energia" si arriverà a questa schermata
-![image](https://github.com/user-attachments/assets/b4352220-7e1a-40ad-bcbc-acd0144c9e9c)
+
+1 - Disabilitare Avvio Rapido.
+
+Questa funzione non ha senso di esistere su PC che montano dischi SSD o NVME, per disabilitarla ci sono mille guide, ve ne lascio 2 random
+https://www.asus.com/it/support/faq/1045548/
+
+https://support.lenovo.com/it/it/solutions/ht513773-how-to-enable-or-disable-fast-startup-on-windows-11
+
+2 - Disabilitare Proxy
+
+Queta funzione risulta attiva anche se non configurata, basta cercare "Proxy" dalla ricerca windows e disattivare la funzione. Ora le pagine web dovrebbero caricarsi piu velocemente quando avviate il browser ed eviterete anche reindirizzamente non rischiesti causati magari da programmi indesiderati o malware
+
+3 - App di Avvio
+
+Cercate "app di Avvio" e controllate che non ci siano programmi che partano in automatico all'avvio, esclusi driver e antivirus il resto delle app non dovrebbero partire in automatico.
+
