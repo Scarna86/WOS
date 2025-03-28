@@ -7,7 +7,7 @@ World Of Warcraft Optimization Settings
   - [Windows Settings](#windows-settings)
   - [Driver Settings](#driver-settings)
   - [Programm Settings](#programm-settings)
-  - [Battlenet Settings](#bnet-settings)
+  - [Battle.net Settings](#battle.net-settings)
 - [Wow Settings](#wow-settings)
 - [Addons Settings](#addons-settings)
   - [Addons & WA Updater](#wowup-wago)
@@ -156,7 +156,7 @@ Solo Chrome/Edge disattivare avvio rapido e caricaemnte pagine in background, qu
 
 Qualunque programma è in uso mentre giocate consuma memoria e memoria video, se potete chiudete app e programmi che non vi servono o settatili senza accelerazione hardware
 
-### Battlenet Settings
+### Battle.net Settings
 
 Potete avere battle.net installato nelle cartelle di default, controllate che anche lui non abbia accellerazione hardware e che non venga avviato in automatico all'avvio del pc
 
