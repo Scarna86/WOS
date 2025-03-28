@@ -285,9 +285,21 @@ https://addons.wago.io/app
 
 ### Addons Settings
 
-Breve premessa: se avete addons e impostazioni vecchie da anni e avete
+Breve premessa: WoW ha una struttura per gestire le addons molto semplice, le addons vengono salvate nella cartella interface mentre le impostazioni delle addons nella cartella WTF. 
+
+Oltre a questo però vi sono anche le CVARS ossia variabili d'ambiente che sono salvate sui server blizzard.
+
+Molte addons intesive o di modifiche ui ai nameplates alla camera ecc modificano lato server queste variabili.
+
+Per questo motivo quando si vuole resettare tutto da zero la propria UI non basta cancellare le cartelle INTERFACE E WTF, ma va anche eseguito il comando sottostante.
+
+ATTENZIONE! il comdando seguente riporta a default tutte le CVAR, non fatelo se avete elvui o plater o altri addons installati, non funzioneranno piu. Il comando va usato solo come reset completo
 
 ```/console cvar_default```
+
+Dopo il reset completo, uscire e rientrare dal gioco.
+
+Il reset completo andrebbe fatto ad ogni espansione, dato che non si puo sapere quali CVAR sono state toccate aggiunte o eliminite di default
 
 
 
