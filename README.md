@@ -55,6 +55,7 @@ Le modifiche alle impostazioni di windows consigliate che possono essere utili n
 1 - Disabilitare Avvio Rapido.
 
 Questa funzione non ha senso di esistere su PC che montano dischi SSD o NVME, per disabilitarla ci sono mille guide, ve ne lascio 2 random
+
 https://www.asus.com/it/support/faq/1045548/
 
 https://support.lenovo.com/it/it/solutions/ht513773-how-to-enable-or-disable-fast-startup-on-windows-11
