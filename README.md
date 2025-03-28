@@ -357,6 +357,28 @@ Se possibile quindi aggiornatela, sostituitela o non usatela.
 
 ## Monitoring Prestazioni
 
+Come controllare se WoW sta girando bene
+
+Aprite gestione attività, andate nelle impostazioni e abilitate "Sempre in Primo Piano", poi andate nella sezione prestazioni a sinistra
+
+![image](https://github.com/user-attachments/assets/49c08d10-dde0-4e1f-9770-8a359b93d59b)
+
+Ora entrate in-game e andate avanti e indietro tra dornogal e delle zone random fuori città
+
+Mentre lo fate tenete d'occhio i valori delle prestazioni
+
+CPU non deve MAI toccare il 100%, lo dovrebbe/potrebbe toccare solo durante raid bg instanze worldboss ecc
+
+RAM non deve MAI toccare il 100%
+
+Disco sul quale è installato WoW non deve mai toccare il 100% e deve stare molto basso salvo qualche spike quando cambiate zona
+
+GPU dovrebbe arrivare al 100% quando siete fuori città 
+
+![image](https://github.com/user-attachments/assets/a2c5fd1b-de55-4c0c-8e11-3467daeb670b)
+
+Se i valori non sono in linea con quelli descritti è possibile abbiate configurato male il sistema e/o uno dei componenti non è adeguato per wow e/o abbia problemi
+
 ## Fix e Workaround
 
 Vari fix per vari problemi
