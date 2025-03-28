@@ -139,7 +139,6 @@ Disattivare Overlay dal menu impostazioni "rotella in basso" sezione "overlay"
 Disattivare Accellerazione Hardware dalla sezione "avanzate"
 Scegliete voi se tenere Discord in esecuzione automatica
 
-![image](https://github.com/user-attachments/assets/b2e435a6-b940-40b1-9de2-f80bb11d6a4b)
 ![image](https://github.com/user-attachments/assets/2a258c2b-f008-4be1-b2d9-e522d80798be)
 ![image](https://github.com/user-attachments/assets/74165d16-4c95-4525-9570-ffea2fd0c778)
 ![image](https://github.com/user-attachments/assets/83cd46e9-e8fd-49b6-84d9-2ac10fb07e64)
