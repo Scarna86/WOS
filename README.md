@@ -9,9 +9,9 @@ World Of Warcraft Optimization Settings
   - [Programm Settings](#programm-settings)
   - [Battlenet Settings](#battlenet-settings)
 - [Wow Settings](#wow-settings)
-- [Addons Settings](#addons-settings)
-  - [Addons & WA Updater](#wowup-wago)
-  - [Addons & WA Settings](#addons-wa-settings)
+- [Addons](#addons)
+  - [Addons & WA Updater](#Addons-&-WA-Updater)
+  - [Addons & WA Settings](#Addons-&-WA-Settings)
 - [Fix & Workaround](#fix-workaround)
 - [Change-log](#change-log)
 
@@ -268,7 +268,9 @@ Nella sezione rete se non siete voi a prendere i log disattivate cronologia di c
 
 ![r1](https://github.com/user-attachments/assets/e7515cda-64e5-4aa2-9243-af8218453884)
 
+## Addons
 
+### Addons & WA Updater
 
 
 
