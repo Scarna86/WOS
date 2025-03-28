@@ -321,6 +321,12 @@ Per le WA Wago APP
 
 https://addons.wago.io/app
 
+Potete poi scegliere le addons o WA preferite, ai fini di prestazioni vi aggiungo qua quelle indispensabili
+
+https://wago.io/DisableCPUProfiling
+
+Questa WA disabilita il profiling CPU blizzard che, nonostante si utile per controllare le addons attive e il loro carico, il fatto che sia sempre attivo è un completo errore, dovrebbe essere attivabile a richiesta, e invece... con questa WA lo disattivate
+
 ### Addons Settings
 Saltabile: NO
 
