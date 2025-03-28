@@ -256,11 +256,17 @@ Ricampionamento Nitidezza: ATTENZIONE! per poterne sfruttare i vantaggi dato che
 
 ``` /console set ResampleAlwaysSharpen 1 ```
 
+Poi Scegliete voi a piacere i livelli restanti
+
 ![g3](https://github.com/user-attachments/assets/aefabb67-5ede-482d-8b01-8b3476798452)
 
+Nella sezione audio Disattivate Riverbero, attualmente buggato carica esageratamente la cpu, e impostate i canali audio a 128 e dimensione grande 128, questo permette ai suoni di addon e wa di sovrapporsi e non cancellarsi
 
+![a1](https://github.com/user-attachments/assets/2ed0e714-7b95-4354-9e71-7d70aef52cea)
 
+Nella sezione rete se non siete voi a prendere i log disattivate cronologia di combattimento avanzata, o vi crea i file log e aumenta il carico in raid sulla cpu
 
+![r1](https://github.com/user-attachments/assets/e7515cda-64e5-4aa2-9243-af8218453884)
 
 
 
