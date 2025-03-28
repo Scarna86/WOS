@@ -23,7 +23,11 @@ Grazie e buon game!
 
 ## PC Settings
 ### Bios Settings
-Saltabile: Si - Difficoltà: Alta - Pericolo: Alto
+Saltabile: Si 
+
+Difficoltà: Alta 
+
+Pericolo: Alto
 
 Per entrare nel bios del vostro pc avete 2 modi:
 - Riavviare il pc, e nella prima schermata con il logo della scheda madre premere ripetutamente il tasto "F2" o il tasto "DEL"/"Canc"
