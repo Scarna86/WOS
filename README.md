@@ -198,6 +198,31 @@ Campo Visivo Visuale: Lasciare al Massimo
 
 ![g1](https://github.com/user-attachments/assets/49bf2d7f-fe40-4db5-8060-ca37b8b3d72a)
 
+ATTENZIONE! La sezione Incursioni e campi di battaglia attualmente è non funzionante (o meglio va e non va quando preferisce), quindi cambiate le impostazioni solo nella schermate base ogni volta... GG blizzard davvero...
+
+Ignorate lo Slide da 1 a 10 Non serve a nulla
+
+Qualità ombre: se  raidate usate bassa/low, di base non andate oltre Alto/High, non porta nessun vantaggio visivo visibile
+
+Dettagli dei liquidi: se raidate usate bassa/low, di base non oltre Buona/Good in quanto ad alto spacca gli fps senza un notevole miglioramento
+
+Densità delle Particelle: in qualunque situazione usate Alta/High, serve per vedere con maggiore dettaglio spell personali e delle fight
+
+SSAO: in raid disattivato, normalmente Buona/Good, al limite alto/high
+
+Effetti di profondità: in raid disattivato, normalmente Buona/Good, al limite High
+
+Effetti di calcolo: in raid disattivato, normalmeno Buona/Good, pesa molto sugli fps oltre questa soglia (sono le nebbie e le aree nebbiose sfocate, di grande impatto ma pesante)
+
+Modalità Contorno: sempre Alto/High
+
+Risoluzione Texture: sempre Alto/High salvo pc vecchiotti
+
+Densità magica: sempre Essenziali/Essenzial filtra le spell facendo vedere solo le nostre, quelle delle fight e le principali dei compagni
+
+Proiezione Texture: IMPORTANTE sempre ON o non vedrete le spell dei boss
+
+
 
 
 ![g2](https://github.com/user-attachments/assets/4877cb92-ed80-407f-aa00-8c3516265127)
