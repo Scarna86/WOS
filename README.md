@@ -272,19 +272,6 @@ Nella sezione rete se non siete voi a prendere i log disattivate cronologia di c
 
 ## Addons
 
-### Addons WA Manager
-Ci sono vari addons manager e WA updater, quelli che consiglio sono:
-
-Per le addons, scaricate la versione wowup with curseforge
-
-https://wowup.io/
-
-Per le WA Wago APP
-
-https://addons.wago.io/app
-
-### Addons Settings
-
 Breve premessa: WoW ha una struttura per gestire le addons molto semplice, le addons vengono salvate nella cartella interface mentre le impostazioni delle addons nella cartella WTF. 
 
 Oltre a questo però vi sono anche le CVARS ossia variabili d'ambiente che sono salvate sui server blizzard.
@@ -300,6 +287,20 @@ ATTENZIONE! il comdando seguente riporta a default tutte le CVAR, non fatelo se 
 Dopo il reset completo, uscire e rientrare dal gioco.
 
 Il reset completo andrebbe fatto ad ogni espansione, dato che non si puo sapere quali CVAR sono state toccate aggiunte o eliminite di default
+
+### Addons WA Manager
+Ci sono vari addons manager e WA updater, quelli che consiglio sono:
+
+Per le addons, scaricate la versione wowup with curseforge
+
+https://wowup.io/
+
+Per le WA Wago APP
+
+https://addons.wago.io/app
+
+### Addons Settings
+
 
 
 
