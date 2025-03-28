@@ -12,7 +12,7 @@ World Of Warcraft Optimization Settings
 - [Addons](#addons)
   - [Addons WA Manager](#Addons-WA-Manager)
   - [Addons Settings](#Addons-Settings)
-- [Fix & Workaround](#fix-workaround)
+- [Fix e Workaround](#fix-e-workaround)
 
 ## Intro
 Salve sono Scarna86, su WoW sono Itanku, Monk Brewmaster. Ho voluto finalmente raccogliere tutte le informazione e le esperienze che conosco per migliorare ed ottimizzare World of Warcraft al meglio, in particolare per l'ambiente raid, m+ e competitivo in generale.
@@ -119,6 +119,8 @@ In entrambe le App, non modificare nulla di aggiuntivo, se non disattivare l'ove
 ![nvidia](https://github.com/user-attachments/assets/2901dac8-50dc-410f-8e78-b73757aa68c9)
 
 ![amd](https://github.com/user-attachments/assets/d874dcb4-da36-4435-975a-004d5d1383ea)
+
+Inoltre disabilitate Freesync o Gsync quando giocate a WOW, è risaputo possa causare crash o freezze dato che WOW non lo supporta
 
 Per i driver di altre periferiche usate solo versioni di base windows quando possibile, unici esclusi sono driver e software per mouse e tastiere che usano macro o comandi aggiuntivi
 
@@ -265,7 +267,7 @@ Soglia FPS: Disattivato
 
 Ricampionamento Nitidezza: ATTENZIONE! per poterne sfruttare i vantaggi dato che è buggata l'attivazione, usate questo comando
 
-``` /console set ResampleAlwaysSharpen 1 ```
+`/console set ResampleAlwaysSharpen 1`
 
 Poi Scegliete voi a piacere i livelli restanti
 
@@ -296,7 +298,7 @@ Per questo motivo quando si vuole resettare tutto da zero la propria UI non bast
 
 ATTENZIONE! il comdando seguente riporta a default tutte le CVAR, non fatelo se avete elvui o plater o altri addons installati, non funzioneranno piu. Il comando va usato solo come reset completo
 
-```/console cvar_default```
+`/console cvar_default`
 
 Dopo il reset completo, uscire e rientrare dal gioco.
 
@@ -346,6 +348,21 @@ Se possibile quindi aggiornatela, sostituitela o non usatela.
 
 ![image](https://github.com/user-attachments/assets/fb1e92ad-d7b7-4783-a3fa-6c5fcc520f74)
 
+## Fix e Workaround
+
+Vari fix per vari problemi
+
+1 - Alt+Tab Freeze/Crash fix, Bisogna aggiungere una chiave al Registro di sistema, segui questi passaggi:
+
+  Apri il Registry Editor: Premi **Win + R**, digita `regedit` e premi **Invio**.
+  
+  Naviga nella seguente chiave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\DWM
+
+  Fai clic con il tasto destro sulla parte vuota del pannello di destra. Seleziona **Nuovo > Valore DWORD (32-bit)**.
+
+  Rinomina il valore a `OverlayTestMode`. Fai doppio clic su `OverlayTestMode`. Cambia il **Valore dati** a `00000005`. Premi **OK**.
+
+  Chiudi il Registry Editor e riavvia il sistema per applicare le modifiche.  
 
 
 
