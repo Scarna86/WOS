@@ -3,7 +3,7 @@ World Of Warcraft Optimization Settings
 ## Indice
 - [Intro](#intro)
 - [Pc Settings](#pc-settings)
-  - [Bios Settings](#bios-settings)
+  - [Bios Settings](#bios-settings) OPZIONALE
   - [Windows Settings](#windows-settings)
   - [Driver Settings](#driver-settings)
   - [Programm Settings](#programm-settings)
@@ -13,7 +13,7 @@ World Of Warcraft Optimization Settings
   - [Addons WA Manager](#Addons-WA-Manager)
   - [Addons Settings](#Addons-Settings)
 - [Monitoring Prestazioni](#Monitoring-Prestazioni)
-- [Fix e Workaround](#fix-e-workaround)
+- [Fix e Workaround](#fix-e-workaround) OPZIONALE
 
 ## Intro
 Salve sono Scarna86, su WoW sono Itanku, Monk Brewmaster. Ho voluto finalmente raccogliere tutte le informazione e le esperienze che conosco per migliorare ed ottimizzare World of Warcraft al meglio, in particolare per l'ambiente raid, m+ e competitivo in generale.
@@ -30,6 +30,7 @@ Difficoltà: Alta
 
 Pericolo: Alto
 
+ATTENZIONE! LE MODIFICHE AL BIOS POSSONO PROVOCARE CRASH RIAVVII ED INSTABILITA AL SISTEMA! NON SONO OBBLIGATORIE E FATELI SOLO SE SICURI
 Per entrare nel bios del vostro pc avete 2 modi:
 - Riavviare il pc, e nella prima schermata con il logo della scheda madre premere ripetutamente il tasto "F2" o il tasto "DEL"/"Canc"
 - Da windows cercare "avvio avanzato" e premere "riavvia ora"
@@ -381,7 +382,7 @@ Se i valori non sono in linea con quelli descritti è possibile abbiate configur
 
 ## Fix e Workaround
 
-Vari fix per vari problemi
+Vari fix per vari problemi, ATTENZIONE! FATELI SOLO SE AVETE EFFETTIVAMENTE IL PROBLEMA SPECIFICATO!
 
 1 - Alt+Tab Freeze/Crash fix, Bisogna aggiungere una chiave al Registro di sistema, segui questi passaggi:
 
