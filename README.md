@@ -1,4 +1,4 @@
-# WOS 0.9 WIP
+# WOS 1.0 Midnight RDY
 World Of Warcraft Optimization Settings
 ## Indice
 - [Intro](#intro)
