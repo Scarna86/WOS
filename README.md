@@ -10,9 +10,9 @@ World Of Warcraft Optimization Settings
   - [Battlenet Settings](#battlenet-settings)
 - [Wow Settings](#wow-settings)
 - [Addons](#addons)
-  - [Addons Manager](#Addons-Manager)
-  - [Addons Settings](#Addons-Settings)
-- [Monitoring Prestazioni](#Monitoring-Prestazioni)
+  - [Addons Manager](#addons-manager)
+  - [Addons Settings](#addons-settings)
+- [Monitoring Prestazioni](#monitoring-prestazioni)
 - [Fix e Workaround](#fix-e-workaround) OPZIONALE
 
 ## Intro
