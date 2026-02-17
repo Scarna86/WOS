@@ -298,6 +298,8 @@ Molte addons intesive o di modifiche ui ai nameplates alla camera ecc modificano
 
 Per questo motivo quando si vuole resettare tutto da zero la propria UI non basta cancellare le cartelle INTERFACE E WTF, ma va anche eseguito il comando sottostante.
 
+Questo comando è consigliabile usarlo a inizio espansione o quando vengono fatti tanti cambiamenti UI lato blizzard (prepatch), per pulire e cominciare da zero la propria interfaccia
+
 ATTENZIONE! il comdando seguente riporta a default tutte le CVAR, non fatelo se avete elvui o plater o altri addons installati, non funzioneranno piu. Il comando va usato solo come reset completo
 
 `/console cvar_default`
@@ -306,7 +308,7 @@ Dopo il reset completo, uscire e rientrare dal gioco.
 
 Il reset completo andrebbe fatto ad ogni espansione, dato che non si puo sapere quali CVAR sono state toccate aggiunte o eliminite di default
 
-### Addons WA Manager
+### Addons Manager
 Saltabile: NO
 
 Difficoltà: Bassa 
@@ -319,15 +321,7 @@ Per le addons, scaricate la versione wowup with curseforge
 
 https://wowup.io/
 
-Per le WA Wago APP
-
-https://addons.wago.io/app
-
-Potete poi scegliere le addons o WA preferite, ai fini di prestazioni vi aggiungo qua quelle indispensabili
-
-https://wago.io/DisableCPUProfiling
-
-Questa WA disabilita il profiling CPU blizzard che, nonostante si utile per controllare le addons attive e il loro carico, il fatto che sia sempre attivo è un completo errore, dovrebbe essere attivabile a richiesta, e invece... con questa WA lo disattivate
+Potete poi scegliere le addons preferite, ai fini di prestazioni vi aggiungo qua quelle indispensabili
 
 ### Addons Settings
 Saltabile: NO
@@ -336,25 +330,11 @@ Difficoltà: Variabile
 
 Pericolo: Variabile
 
-1 - Refresh Rate addons, per tutte le addons è consigliabile scegliere un refresh rate di aggiornamento non troppo aggressivo, details, elvui, plater ecc ognugno ha la sua configurazione di refresh, 
+Refresh Rate addons, per tutte le addons è consigliabile scegliere un refresh rate di aggiornamento non troppo aggressivo, details, elvui, plater ecc ognugno ha la sua configurazione di refresh, 
 
 ![elvui ](https://github.com/user-attachments/assets/3f1eb5f2-61b3-42e5-9039-6100ddd585da)
 
 ![details](https://github.com/user-attachments/assets/d6d6b1de-9927-4c17-8ebd-77eceeedbc2a)
-
-2 - WeakAura Profiler, permette di controllare quali delle nostre WA stanno sovraccaricando il gioco, per avviare il profiling basta fare tasto destro sull'icona WA e poi avviare con start profiling
-
-![image](https://github.com/user-attachments/assets/dd9d7de1-8bea-4f62-903a-8fad53008c78)
-
-![image](https://github.com/user-attachments/assets/ba14a0b4-bf90-420b-945f-02207e37bc62)
-
-X capire quale WA sta dando problemi mettetele in ordine di SPIKE cliccando sulla collonna SPIKE se vi sono valori rossi significa che quella WA sta caricando il gioco
-
-Se possibile quindi aggiornatela, sostituitela o non usatela.
-
-3 - WeakAura Models, dovete controllare ogni singola WA che avete ed assicurarvi che nessuna usi MODELS nella sezione display. I models causano ingenti perdite di FPS
-
-![image](https://github.com/user-attachments/assets/fb1e92ad-d7b7-4783-a3fa-6c5fcc520f74)
 
 ## Monitoring Prestazioni
 
